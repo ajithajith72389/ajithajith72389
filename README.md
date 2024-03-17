@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Mern Stack and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via LinkedIn
-- 😄 Pronouns: He/Hom
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an AI Student
 
 <!---
