@@ -1,7 +1,6 @@
 - 👋 Hi, I’m AJITH 
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Mern Stack and java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Mern Stack
 - 📫 How to reach me via LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an AI Student
