@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm AJITH</h1>
-<h3 align="center">A Passionate Frontend Developer and Data Analyst</h3>
+<h3 align="center">A Passionate Frontend Developer and Aspiring Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithajith72389&label=Profile%20views&color=0e75b6&style=flat" alt="ajithajith72389" /> </p>
 
-- 🔭 I’m currently working on **Data Analytics**
+- 🔭 I’m currently working on **Traffic Prediction and Management System** using Python Flask and backend development projects.
 
-- 🌱 I’m currently learning **Data Analytics and Data Science**
+- 🌱 I’m currently learning **Backend Development**, **Object-Oriented Programming (OOP)**, and **Advanced SQL**.
 
-- 👯 I’m looking to collaborate on **Data Analytics Projects**
+- 👯 I’m looking to collaborate on **Python Flask Projects** and **Data Analytics Projects**.
 
-- 🤝 I’m looking for help with **Frontend**
+- 🤝 I’m looking for help with **enhancing backend architecture** and **full-stack development skills**.
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development** with ReactJS and Python Flask.
 
-- 📫 How to reach me **ajithajith72389@gmail.com**
+- 📫 How to reach me: ajithajith72389@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
