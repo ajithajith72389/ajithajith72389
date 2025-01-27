@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **enhancing backend architecture** and **full-stack development skills**.
 
-- 💬 Ask me about **Web Development** with ReactJS and Python Flask.
+- 💬 Ask me about **Web Development** with ReactJS.
 
 - 📫 How to reach me: ajithajith72389@gmail.com
 
