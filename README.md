@@ -1,30 +1,76 @@
 <h1 align="center">Hi 👋, I'm AJITH</h1>
-<h3 align="center">A Passionate Frontend Developer and Aspiring Backend Developer</h3>
+<h3 align="center">Android Developer (Jetpack Compose) | Aspiring Backend Developer | SQL & API Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithajith72389&label=Profile%20views&color=0e75b6&style=flat" alt="ajithajith72389" /> </p>
-
-- 🔭 I’m currently working on **Traffic Prediction and Management System** using Python Flask and backend development projects.
-
-- 🌱 I’m currently learning **Backend Development**, **Object-Oriented Programming (OOP)**, and **Advanced SQL**.
-
-- 👯 I’m looking to collaborate on **Python Flask Projects** and **Data Analytics Projects**.
-
-- 🤝 I’m looking for help with **enhancing backend architecture** and **full-stack development skills**.
-
-- 💬 Ask me about **Web Development** with ReactJS.
-
-- 📫 How to reach me: ajithajith72389@gmail.com
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ajith-v-811760268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajith-v-811760268" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajithajith72389&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithajith72389&show_icons=true&locale=en&layout=compact" alt="ajithajith72389" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithajith72389&show_icons=true&locale=en" alt="ajithajith72389" /></p>
+- 💼 Currently working as an **Android Developer (Jetpack Compose)** in a tracking-focused startup  
+- 📊 Building **Operational Hours Report**, **GPS Status Reports**, charts, filters, and API-based dashboards  
+- 🔭 Working on **Personal Finance Tracker** & **Petty Cash Management App**  
+- 🌱 Improving skills in **Backend Development**, **PostgreSQL**, and **Networking Basics**  
+- 🧠 Love solving UI recomposition issues, ViewModel state management, and API integrations  
+- 👯 Open to collaborate on **Jetpack Compose Apps**, **Python Backend**, and **Data-Driven Projects**  
+- 💬 Ask me about **Jetpack Compose**, **API integration**, **Dropdowns/Filters**, **Charts**, and **StateFlow architecture**  
+- 📫 Reach me at: **ajithajith72389@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajithajith72389&" alt="ajithajith72389" /></p>
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/ajith-v-811760268" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack (Current Focus)
+
+#### **Android Development**
+- Jetpack Compose  
+- Kotlin  
+- ViewModel + StateFlow  
+- Retrofit + Token Authentication  
+- MPAndroidChart  
+- Compose Navigation  
+- Clean Architecture  
+
+#### **Backend & Databases**
+- Python Flask  
+- PostgreSQL (Mastering)  
+- MySQL  
+- REST API Development  
+
+#### **Tools & Other Skills**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithajith72389&show_icons=true&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithajith72389&show_icons=true" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajithajith72389" />
+</p>
